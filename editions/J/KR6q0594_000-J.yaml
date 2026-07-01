@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0594/j/v1/juan/0
+seq: 0
+front:
+  text: 鑑堂和尚語錄序鑑上人者童年祝髮苦志宗傳啟當業之鼓鐘津梁龍象闡治平之棒喝印證薪燈滿布黃金兩建祇園之盛群薦白足還經耆臘之年別所稱申流砥柱末代津梁者也予曾入白社之交夙聆青州之論觸處皆成妙諦磕著便是針鋒雖未盡識微機抑亦略覲大意涅槃數載法嗣多人輯其語言文字將欲壽諸梨棗紀夫功德訓誨諄屬弁以秕糠此固浮屠報本之心實浹塵外契投之意上堂法語足徵當下鉗錘示眾小參尤見性天訣竅抹清風披明月詠歌無意總文章聚頑石散天花偈頌忘機皆縱奪自慚門外漢難通五覺淵微應有個中人推作三乘法棟康熙戊子閏三月屏山杜允貞子醇氏撰鑑堂一禪師語錄目次序上堂秉拂示眾小參佛事偈頌
+  hash: sha256:68aa459d4526aae625692fc23e9df594a6b1ebd83d14a0fddbe4bccc9ed6679b
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6q0594_J_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 241, content: 目次, id: KR6q0594_J_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鑑堂一禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J40/J40nB486.xml
+    old_id: J40nB486
+hash: sha256:9242c12cc06a288db57a59949e43d16cab121352f55cc44feb12249233b2e728
