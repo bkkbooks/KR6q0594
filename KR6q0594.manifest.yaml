@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0594_000.yaml, hash: 'sha256:2a3f3f46f9e8a3274893e2d610aceacf0c4fbe14040b1f012781dcc3cf208f66'}
-  - {seq: 1, filename: KR6q0594_001.yaml, hash: 'sha256:5bc72d75dfcabb1f986bcc90fe93a056b1d8dfcd5e80fd7ef1786c62c2aa8f56'}
+  - {seq: 0, filename: KR6q0594_000.yaml, hash: 'sha256:9242c12cc06a288db57a59949e43d16cab121352f55cc44feb12249233b2e728'}
+  - {seq: 1, filename: KR6q0594_001.yaml, hash: 'sha256:b7412ce49f258e2998731653687c41efde72ee2ab281c8a366f335018578cd71'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0594_000.markers.yaml, hash: 'sha256:fb719c774e15a2c4befe2a7033049ffcbc1d997ac65b5378b7ef101cd7458527'}
-  - {seq: 1, role: markers, filename: assets/KR6q0594_001.markers.yaml, hash: 'sha256:f12a236a6375892687c569677590d6011e9a162cdbac14ae6fc40831d29bc5f5'}
+  - {seq: 0, role: markers, filename: assets/KR6q0594_000.markers.yaml, hash: 'sha256:ccbb31559b0f81d3c5615491fd901d33b2bb8b6a62c94e7e3f19606c0852936a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0594_001.markers.yaml, hash: 'sha256:3302382436c33b06762d13d11d399d1a823a732dde497a7bdb69025319b9e136'}
 table_of_contents:
 - ref:
     seq: 0
@@ -697,7 +697,4 @@ table_of_contents:
   label: 第三十一世振宗竺峰幻敏禪師
   type: mulu
   level: 1
-hash: sha256:d37389a784d42adeb054aef478f8e07afe36eeec1156334195e5d214a70513e8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bc81c73dce8a4dd965ecee56c2fe9c542386ead11e2f2e8fd34ddafb2605e0f1
