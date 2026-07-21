@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0594_000.yaml, hash: 'sha256:373d5999eb0c0532623e21fe5aae9dd196c0c899469b5f86b52da1a882d16b38'}
+  - {seq: 0, filename: KR6q0594_000.yaml, hash: 'sha256:04f5b61ff55bf62b5cca5f2a2a21f4a7bccc1c4a45e3b33ef81eaad74327bfc2'}
   - {seq: 1, filename: KR6q0594_001.yaml, hash: 'sha256:a6823b48fdb33befcbeabdad5d453b2397a26892a7bf7bce3a508d2da94527b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0594_000.markers.yaml, hash: 'sha256:b91a327309897395e29487b61cfc54353d42979fa00fad2bd3b77a2f305d2bf8'}
+  - {seq: 0, role: markers, filename: assets/KR6q0594_000.markers.yaml, hash: 'sha256:83c4c6f31eccc70100677718da5518a6b96201f234bab69a292d936ae310be64'}
   - {seq: 1, role: markers, filename: assets/KR6q0594_001.markers.yaml, hash: 'sha256:c440bb1a66376f9f49a5280b2d583d477b073b68ebf0069eb637c87133303e72'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0594_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0594_J_000-mulu-2
     span:
-    - front
+    - body
     - 241
     - 241
   label: 目次
@@ -697,7 +697,7 @@ table_of_contents:
   label: 第三十一世振宗竺峰幻敏禪師
   type: mulu
   level: 1
-hash: sha256:47a973c4c9136f0a2d544827383050f56597c3c24ecd146f503534db03b354f8
+hash: sha256:dad8e746a0b2aef8a244aab6ae29141e00d0a967f1dc65badac785c917a85648
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
